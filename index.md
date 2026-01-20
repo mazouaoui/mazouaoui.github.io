@@ -59,12 +59,10 @@ Page in progress
 - **On the Worst‑Case Side‑Channel Security of ECC Point Randomization in Embedded Devices**  
   Melissa Azouaoui, François Durvaux, Romain Poussier, François‑Xavier Standaert, Kostas Papagiannopoulos, Vincent Verneuil  
   *INDOCRYPT 2020: 205–227*  
-  [dblp link](https://dblp.org/pid/237/1487.html)
 
 - **A Systematic Appraisal of Side Channel Evaluation Strategies**  
   Melissa Azouaoui, Davide Bellizia, Ileana Buhan, Nicolas Debande, Sébastien Duval, Christophe Giraud, Éliane Jaulmes, François Koeune, Elisabeth Oswald, François‑Xavier Standaert, Carolyn Whitnall  
   *SSR 2020: 46–66*  
-  [dblp link](https://dblp.org/pid/237/1487.html)
   
 - **Key Enumeration from the Adversarial Viewpoint: When to Stop Measuring and Start Enumerating?**  
   Melissa Azouaoui, Romain Poussier, François‑Xavier Standaert, Vincent Verneuil  
