@@ -74,11 +74,41 @@ Page in progress
 
 ---
 
+## 🎤 Talks and Presentations
 
-## Talks and Presentations
+- **Beyond Quantum Resilience: Embedded Security with and for PQC**
+  *PQCSA: PQC Migration & Supply Chain Readiness for the Automotive Industry*
+
+- **Recent Contributions to the Physical Security of ML-DSA**
+  *Sixth PQC Standardization Conference*
+
+- **Security Challenges of Embedded Post-Quantum Cryptography**
+  *High-Tech Women 2024*
+
+- **Leveling Dilithium against Leakage, Revisited Sensitivity Analysis and Improved Implementations**
+  *Fourth PQC Standardization Conference*
+  
+- **Post-Quantum Authenticated Encryption Against Chosen-Ciphertext Side-Channel Attacks Avoiding the FO-calypse**
+  *Seminar, Institute for IT Security at University of Lübeck*
+  
+---
+
+## 📰 Blogposts and Articles
+
+- **[A Brief Outlook on the Migration to Post-Quantum Cryptography](https://www.nxp.com/company/about-nxp/smarter-world-blog/BL-A-BRIEF-OUTLOOK)**
+
+- **[Protecting Post-Quantum Cryptography Against Side-Channel Attacks](https://www.nxp.com/company/about-nxp/smarter-world-blog/BL-PROTECTING-POST-QUANTUM-CRYPTOGRAPHY)**
+
+- **[Post-Quantum Cryptographic Migration Challenges for Embedded Devices](https://www.nxp.com/docs/en/white-paper/POSTQUANCOMPWPA4.pdf?cid=soc_other_tac1825450_li&utm_campaign=Oktopost-BL+Secure+Connected+Edge+%28SCE%29&utm_medium=social&utm_source=LinkedIn)**
+
+- **Attaques par canaux auxiliaires sur AES – Partie 2**
+  *Magazine MISC n°98*
+  
+- **Attaques par canaux auxiliaires sur AES – Partie 1**
+  *Magazine MISC n°97*
 
 ---
 
-## Program Committees
-
+## Program Committees and Reviewing 
+CASCADE 2026, CASCADE 2025, SAC 2025, FDTC 2025, ACNS 2024, FDTC 2024, CARDIS 2023, SAC 2023, SAC 2022, DATE 2021
 
