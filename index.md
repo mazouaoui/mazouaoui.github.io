@@ -6,8 +6,9 @@ Page in progress
 
 - [Bio](#bio)
 - [Publications](#publications)
-- [Presentations](#presentations)
-- [CV](#cv)
+- [Talks and Presentations](#talks-and-presentations)
+- [Blogposts and Articles](#blogposts-and-articles)
+- [Program Committees and Reviewing](#program-committees-and-reviewing)
 
 --- 
 
@@ -15,7 +16,7 @@ Page in progress
 
 ---
 
-## 📚 Publications
+## Publications
 
 - **Post‑Quantum Cryptography in eMRTDs: Evaluating PAKE and PKI for Travel Documents**  
   Nouri Alnahawi, Melissa Azouaoui, J. W. Bos, Gareth T. Davies, SeoJeong Moon, Christine van Vredendaal, Alexander Wiesmaier  
@@ -74,7 +75,7 @@ Page in progress
 
 ---
 
-## 🎤 Talks and Presentations
+## Talks and Presentations
 
 - **Beyond Quantum Resilience: Embedded Security with and for PQC**
   *PQCSA: PQC Migration & Supply Chain Readiness for the Automotive Industry*
@@ -93,7 +94,7 @@ Page in progress
   
 ---
 
-## 📰 Blogposts and Articles
+## Blogposts and Articles
 
 - **[A Brief Outlook on the Migration to Post-Quantum Cryptography](https://www.nxp.com/company/about-nxp/smarter-world-blog/BL-A-BRIEF-OUTLOOK)**
 
@@ -110,5 +111,5 @@ Page in progress
 ---
 
 ## Program Committees and Reviewing 
-CASCADE 2026, CASCADE 2025, SAC 2025, FDTC 2025, ACNS 2024, FDTC 2024, CARDIS 2023, SAC 2023, SAC 2022, DATE 2021
-
+- **PC:** CASCADE 2026, CiC 2026, CHES 2025, CiC 2025, CASCADE 2025, SAC 2025, FDTC 2025, CiC 2024, ACNS 2024, FDTC 2024, CARDIS 2023, SAC 2023, SAC 2022
+- **Reviewer:** EUROCRYPT 2023, EUROCRYPT 2021, DATE 2021
